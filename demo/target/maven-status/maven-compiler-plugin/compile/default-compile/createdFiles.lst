@@ -1,0 +1,4 @@
+com/group2/demo/DemoApplication.class
+com/group2/demo/controller/UserController.class
+com/group2/demo/repository/UserRepository.class
+com/group2/demo/model/User.class
