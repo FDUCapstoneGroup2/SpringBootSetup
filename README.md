@@ -16,6 +16,7 @@ This project aims to improve the performance of encryption algorithms used in th
 
 **3. Original Paper Reference:**  
 Zhang, X., Hu, H., & Xu, Y. (2024). The Design and Implementation of an Automatic Encryption and Decryption System for Sensitive Words in Databases Based on Spring Boot. 2024 5th International Seminar on Artificial Intelligence, Networking, and Information Technology (AINIT), IEEE. DOI: 10.1109/AINIT61980.2024.10581490.
+https://ieeexplore.ieee.org/document/10581490
 
 **4. Project Scope:**    
 **Algorithm Optimization:** Replace the DES encryption algorithm with AES and optimize the system for handling large datasets.
